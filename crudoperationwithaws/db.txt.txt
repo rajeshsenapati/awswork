@@ -1,0 +1,11 @@
+password = rajesh12
+db_iden = PROD
+user = rajesh
+port = 5432
+db = productdatabase
+host = prod.cckorgiqaoaz.ap-south-1.rds.amazonaws.com
+===============
+bucktname = productbucket12
+User name = rajesh88
+key id = AKIA4YV6SJRTV46FK562
+secret acess key = JhFCndjjKT/Or+zflGOUjIouZaakTkoTPC+b00N
